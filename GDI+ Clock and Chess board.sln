@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "GDI+ Clock and Chess\Clock.csproj", "{4720B3DE-0775-4789-8A54-D1166880AD2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess board", "Chess\Chess board.csproj", "{FB00D571-1E3B-4233-A33D-C32B76BB9C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4720B3DE-0775-4789-8A54-D1166880AD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4720B3DE-0775-4789-8A54-D1166880AD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4720B3DE-0775-4789-8A54-D1166880AD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4720B3DE-0775-4789-8A54-D1166880AD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB00D571-1E3B-4233-A33D-C32B76BB9C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB00D571-1E3B-4233-A33D-C32B76BB9C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB00D571-1E3B-4233-A33D-C32B76BB9C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB00D571-1E3B-4233-A33D-C32B76BB9C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A49CF27-D907-4BAD-A57A-A09CA7326ACA}
+	EndGlobalSection
+EndGlobal
